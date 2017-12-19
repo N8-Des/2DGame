@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Boss
+  - Ground
+  - enemy
+  - canvas
   layers:
   - Default
   - TransparentFX
@@ -16,7 +19,7 @@ TagManager:
   - 
   - Ground
   - Projectile
-  - 
+  - G2
   - 
   - 
   - 

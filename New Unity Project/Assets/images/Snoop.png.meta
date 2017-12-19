@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: 0a6bc6719015bcd4c99a2a2a0fa6f7a5
+timeCreated: 1513355906
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Snoop_0
+    21300002: Snoop_1
+    21300004: Snoop_2
+    21300006: Snoop_3
+    21300008: Snoop_4
+    21300010: Snoop_5
+    21300012: Snoop_6
+    21300014: Snoop_7
+    21300016: Snoop_8
+    21300018: Snoop_9
+    21300020: Snoop_10
+    21300022: Snoop_11
+    21300024: Snoop_12
+    21300026: Snoop_13
+    21300028: Snoop_14
+    21300030: Snoop_15
+    21300032: Snoop_16
+    21300034: Snoop_17
+    21300036: Snoop_18
+    21300038: Snoop_19
+    21300040: Snoop_20
+    21300042: Snoop_21
+    21300044: Snoop_22
+    21300046: Snoop_23
+    21300048: Snoop_24
+    21300050: Snoop_25
+    21300052: Snoop_26
+    21300054: Snoop_27
+    21300056: Snoop_28
+    21300058: Snoop_29
+    21300060: Snoop_30
+    21300062: Snoop_31
+    21300064: Snoop_32
+    21300066: Snoop_33
+    21300068: Snoop_34
+    21300070: Snoop_35
+    21300072: Snoop_36
+    21300074: Snoop_37
+    21300076: Snoop_38
+    21300078: Snoop_39
+    21300080: Snoop_40
+    21300082: Snoop_41
+    21300084: Snoop_42
+    21300086: Snoop_43
+    21300088: Snoop_44
+    21300090: Snoop_45
+    21300092: Snoop_46
+    21300094: Snoop_47
+    21300096: Snoop_48
+    21300098: Snoop_49
+    21300100: Snoop_50
+    21300102: Snoop_51
+    21300104: Snoop_52
+    21300106: Snoop_53
+    21300108: Snoop_54
+    21300110: Snoop_55
+    21300112: Snoop_56
+    21300114: Snoop_57
+    21300116: Snoop_58
+    21300118: Snoop_59
+    21300120: Snoop_60
+    21300122: Snoop_61
+    21300124: Snoop_62
+    21300126: Snoop_63
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Snoop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2044
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_1
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2044
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2044
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_3
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 2044
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_4
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 2044
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_5
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 2044
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_6
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2044
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_7
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 2044
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1752
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1752
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_10
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1752
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_11
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1752
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_12
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1752
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_13
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1752
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_14
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1752
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_15
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1752
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1460
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_17
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1460
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_18
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1460
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_19
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1460
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_20
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1460
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_21
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1460
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_22
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1460
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_23
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1460
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1168
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_25
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1168
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_26
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1168
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_27
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1168
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_28
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1168
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_29
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1168
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_30
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1168
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_31
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1168
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 876
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_33
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 876
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_34
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 876
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_35
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 876
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_36
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 876
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_37
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 876
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_38
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 876
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_39
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 876
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_41
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 584
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_42
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 584
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_43
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 584
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_44
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 584
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_45
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 584
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_46
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 584
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_47
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 584
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_49
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 292
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_50
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 292
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_51
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 292
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_52
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 292
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_53
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 292
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_54
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 292
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_55
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 292
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_57
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_58
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_59
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 0
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_60
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 0
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_61
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 0
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_62
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 0
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Snoop_63
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 0
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

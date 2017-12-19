@@ -31,7 +31,7 @@ public class Shrek : Boss {
 			amountEnd += 1;
 			GameObject steve = GameObject.Instantiate ((GameObject)Resources.Load ("dragon"));;
 			if (amountEnd >= 10) {
-				Destroy (this.gameObject);
+				ILost = true;
 			}
 		}
 	}

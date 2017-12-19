@@ -14,8 +14,8 @@ public class FrisbeeL : MonoBehaviour {
 		StartCoroutine (move);
 	}
 	public IEnumerator rhee(){
-		frb.velocity = pt1 * 5;
+		frb.velocity = pt1;
 		yield return new WaitForSeconds (3);
-		frb.velocity = pt2 * 5;
+		frb.velocity = pt2;
 	}
 }

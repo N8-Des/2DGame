@@ -67,6 +67,9 @@ public class RobloxBattle : Boss {
 		yield return new WaitForSeconds (2);
 		SummonLogo2 = roblix2 ();
 		StartCoroutine (SummonLogo2);
+		if (times2 >= 10) {
+			ILost = true;
+		}
 	}
 	public IEnumerator roblix2(){	
 		Vector3 offset = new Vector3 (Random.Range(-9f, 9f), Random.Range(-9f, 9f), 0);

@@ -26,6 +26,9 @@ public class EA2 : Boss {
 				end += 1;
 				bfwait = 0;
 				GameObject sim = GameObject.Instantiate ((GameObject)Resources.Load ("danger2"));;
+				if (end >= 7) {
+					ILost = true;
+				}
 
 			}
 		}

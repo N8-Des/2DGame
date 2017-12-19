@@ -24,7 +24,7 @@ GameObject:
   - component: {fileID: 114178578731508518}
   m_Layer: 9
   m_Name: Roblaser
-  m_TagString: Untagged
+  m_TagString: enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

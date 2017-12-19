@@ -8,6 +8,7 @@ public class NetBoss : Boss {
 	public int times;
 	public int times2;
 	public int timesa;
+
 	public void FixedUpdate(){
 		wait1 += Time.deltaTime;
 		if(wait1 >= 0.3){
@@ -29,6 +30,9 @@ public class NetBoss : Boss {
 				GameObject indi = GameObject.Instantiate ((GameObject)Resources.Load ("danger"));;
 				indi.transform.position = this.transform.position + offset2;		
 				times2 += 1;
+				if (times2 >= 11) {
+					ILost = true;
+				}
 			}
 		}
 	}
